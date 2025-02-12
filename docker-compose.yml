@@ -1,0 +1,10 @@
+version: '3'
+services:
+  scdl:
+    container_name: scdl
+    volumes:
+      - ./musics:/srv/musics
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    

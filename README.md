@@ -1,6 +1,6 @@
 # SCDL Docker
 
-This is a brief implementation of the SCDL module inside a docker container
+This is a brief implementation of the SCDL module inside a docker container. This allow you to download Soundcloud playlists without having to install anything on your computer. No need of Venv and no need of complicated configurations.
 
 ## Table of Contents
 

@@ -1,1 +1,2 @@
-/musics/*
+musics/*
+!musics/*.*

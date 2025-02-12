@@ -1,0 +1,14 @@
+#### INFORMATIONS ####
+
+Vous trouverez dans ce dossiers, toutes vos playlists spécifiées dans le fichier playlist.txt
+
+Toutes les titres seront téléchargés au format MP3.
+
+ATTENTION : 
+
+Il se peut qu'il y ait des erreurs dans les fichiers:
+
+1/ Des sons faisant moins de 30s => Ce sont des musiques qui nécessitent l'abonnement GO+ pour être téléchargées.
+2/ Des musiques incomplètes => En cours de diagnostique.
+3/ Des musiques corrompues => Elles ne sont pas disponibles dans votre zone géographique.
+

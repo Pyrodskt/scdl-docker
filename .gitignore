@@ -1,3 +1,4 @@
 musics/*
 !musics/*.*
-playlist.txt
+*.txt
+!playlist.template.txt
